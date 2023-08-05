@@ -2,27 +2,27 @@
 ## Write Java programs for the following: 
 
 ### Basic Java Programs
-1. Area Of Circle Java Program
-2. Area Of Triangle
-3. Area Of Rectangle Program 
-4. Area Of Isosceles Triangle 
-5. Area Of Parallelogram
-6. Area Of Rhombus
-7. Area Of Equilateral Triangle
-8. Perimeter Of Circle
-9. Perimeter Of Equilateral Triangle
-10. Perimeter Of Parallelogram
-11. Perimeter Of Rectangle
-12. Perimeter Of Square
-13. Perimeter Of Rhombus
-14. Volume Of Cone Java Program
-15. Volume Of Prism
-16. Volume Of Cylinder
-17. Volume Of Sphere
-18. Volume Of Pyramid
-19. Curved Surface Area Of Cylinder
-20. Total Surface Area Of Cube
-21. Fibonacci Series In Java Programs
+1. Area Of Circle Java Program  // Done
+2. Area Of Triangle //done
+3. Area Of Rectangle Program //done
+4. Area Of Isosceles Triangle //done
+5. Area Of Parallelogram //done
+6. Area Of Rhombus //done
+7. Area Of Equilateral Triangle //done
+8. Perimeter Of Circle //done
+9. Perimeter Of Equilateral Triangle  //done
+10. Perimeter Of Parallelogram //done
+11. Perimeter Of Rectangle //done
+12. Perimeter Of Square //done
+13. Perimeter Of Rhombus //done
+14. Volume Of Cone Java Program //done
+15. Volume Of Prism //done
+16. Volume Of Cylinder //done
+17. Volume Of Sphere //done
+18. Volume Of Pyramid //done
+19. Curved Surface Area Of Cylinder //done
+20. Total Surface Area Of Cube //done
+21. Fibonacci Series In Java Programs //done
 22. [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
 23. Input a number and print all the factors of that number (use loops).
 24. Take integer inputs till the user enters 0 and print the sum of all numbers
