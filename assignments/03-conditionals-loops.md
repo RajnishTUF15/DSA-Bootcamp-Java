@@ -27,9 +27,9 @@
 23. Input a number and print all the factors of that number (use loops). //done
 24. Take integer inputs till the user enters 0 and print the sum of all numbers //done
 (HINT: while loop)
-25. Take integer inputs till the user enters 0 and print the largest number from
+25. Take integer inputs till the user enters 0 and print the largest number from //done
 all.
-26. Addition Of Two Numbers
+26. Addition Of Two Numbers //done
 
 ### Intermediate Java Programs
 1. Factorial Program In Java
