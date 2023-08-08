@@ -1,18 +1,18 @@
 # [Video Link](https://youtu.be/vvanI8NRlSI)
 
-1. [Define two methods to print the maximum and the minimum number respectively among three numbers entered by the user.](https://www.java67.com/2019/05/how-to-find-largest-and-smallest-of-three-numbers-in-java.html)
+1. [Define two methods to print the maximum and the minimum number respectively among three numbers entered by the user.] //done(https://www.java67.com/2019/05/how-to-find-largest-and-smallest-of-three-numbers-in-java.html)
 
 2. [Define a program to find out whether a given number is even or odd.](https://www.geeksforgeeks.org/java-program-to-check-if-a-given-integer-is-odd-or-even/)
 
-3. [A person is eligible to vote if his/her age is greater than or equal to 18. Define a method to find out if he/she is eligible to vote.](https://www.efaculty.in/java-programs/voting-age-program-in-java/)
+3. [A person is eligible to vote if his/her age is greater than or equal to 18. Define a method to find out if he/she is eligible to vote.] //done(https://www.efaculty.in/java-programs/voting-age-program-in-java/)
 
-4. [Write a program to print the sum of two numbers entered by user by defining your own method.](https://code4coding.com/addition-of-two-numbers-in-java-using-method/)
+4. [Write a program to print the sum of two numbers entered by user by defining your own method.] //done (https://code4coding.com/addition-of-two-numbers-in-java-using-method/)
 
-5. [Define a method that returns the product of two numbers entered by user.](https://code4coding.com/java-program-to-multiply-two-numbers-using-method/)
+5. [Define a method that returns the product of two numbers entered by user.]//done(https://code4coding.com/java-program-to-multiply-two-numbers-using-method/)
 
-6. [Write a program to print the circumference and area of a circle of radius entered by user by defining your own method.](https://beginnersbook.com/2014/01/java-program-to-calculate-area-and-circumference-of-circle/)
+6. [Write a program to print the circumference and area of a circle of radius entered by user by defining your own method.]//done (https://beginnersbook.com/2014/01/java-program-to-calculate-area-and-circumference-of-circle/)
 
-7. [Define a method to find out if a number is prime or not.](https://www.geeksforgeeks.org/java-program-to-check-if-a-number-is-prime-or-not/)
+7. [Define a method to find out if a number is prime or not.]//done(https://www.geeksforgeeks.org/java-program-to-check-if-a-number-is-prime-or-not/)
 
 8. [Write a program that will ask the user to enter his/her marks (out of 100). Define a method that will display grades according to the marks entered as below:](https://www.techcrashcourse.com/2017/02/java-program-to-calculate-grade-of-students.html) <br/>
 <pre> 
