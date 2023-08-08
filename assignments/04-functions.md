@@ -2,7 +2,7 @@
 
 1. [Define two methods to print the maximum and the minimum number respectively among three numbers entered by the user.] //done(https://www.java67.com/2019/05/how-to-find-largest-and-smallest-of-three-numbers-in-java.html)
 
-2. [Define a program to find out whether a given number is even or odd.](https://www.geeksforgeeks.org/java-program-to-check-if-a-given-integer-is-odd-or-even/)
+2. [Define a program to find out whether a given number is even or odd.]//done(https://www.geeksforgeeks.org/java-program-to-check-if-a-given-integer-is-odd-or-even/)
 
 3. [A person is eligible to vote if his/her age is greater than or equal to 18. Define a method to find out if he/she is eligible to vote.] //done(https://www.efaculty.in/java-programs/voting-age-program-in-java/)
 
@@ -14,7 +14,7 @@
 
 7. [Define a method to find out if a number is prime or not.]//done(https://www.geeksforgeeks.org/java-program-to-check-if-a-number-is-prime-or-not/)
 
-8. [Write a program that will ask the user to enter his/her marks (out of 100). Define a method that will display grades according to the marks entered as below:](https://www.techcrashcourse.com/2017/02/java-program-to-calculate-grade-of-students.html) <br/>
+8. [Write a program that will ask the user to enter his/her marks (out of 100). Define a method that will display grades according to the marks entered as below:]//done(https://www.techcrashcourse.com/2017/02/java-program-to-calculate-grade-of-students.html) <br/>
 <pre> 
 Marks        Grade 
 91-100         AA 
@@ -26,7 +26,7 @@ Marks        Grade
 <=40          Fail 
 </pre>
 
-9. [Write a program to print the factorial of a number by defining a method named 'Factorial'.](https://www.javatpoint.com/factorial-program-in-java)
+9. [Write a program to print the factorial of a number by defining a method named 'Factorial'.]//done(https://www.javatpoint.com/factorial-program-in-java)
 Factorial of any number n is represented by n! and is equal to 1 * 2 * 3 * .... * (n-1) *n. E.g.- <br/>
 <pre>
 4! = 1 * 2 * 3 * 4 = 24 
@@ -37,7 +37,7 @@ Also,
 0! = 1
 </pre>
 
-10. [Write a function to find if a number is a palindrome or not. Take number as parameter.](https://www.geeksforgeeks.org/check-if-a-number-is-palindrome/)
+10. [Write a function to find if a number is a palindrome or not. Take number as parameter.]//done(https://www.geeksforgeeks.org/check-if-a-number-is-palindrome/)
 
 11. Convert the programs in [flow of program](01-flow-of-program.md), [first java](02-first-java.md), [conditionals & loops](03-conditionals-loops.md) assignments into functions.
 
